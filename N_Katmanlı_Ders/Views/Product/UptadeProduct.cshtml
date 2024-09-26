@@ -1,0 +1,41 @@
+﻿@model EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "UptadeProduct";
+    Layout = "~/Views/Shared/UıLayaut.cshtml";
+}
+<br />
+<br />
+
+<h1 class="display-1" style="margin-left: 30%;">Ürün Güncelle</h1>
+<br />
+<br />
+
+<form method="post">
+    @Html.Label("Güncel Ürün Id")
+    @Html.TextBoxFor(x => x.ProductId, new { @class = "form-control", @readonly = "readonly" })
+    @Html.ValidationMessageFor(x => x.ProductId)
+    <br />     <br />
+    @Html.Label("Güncel Ürün Adı")
+    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductName)
+    <br />     <br />
+
+
+    @Html.Label("Güncel Ürün Stok")
+    @Html.TextBoxFor(x => x.ProductStock, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductStock)
+
+    <br />     <br />
+
+
+    @Html.Label("Güncel Ürün Fiyat")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductPrice)
+
+    <br />     <br />
+
+
+    <button type="submit" class="btn btn-success btn-lg">Ürünü Güncelle </button>
+
+
+</form>

@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\N_Katmanlı_Ders.bundle.scp.css",
+      "PackagePath": "staticwebassets\\N_Katmanlı_Ders.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\umuta\\source\\repos\\nKATMANLIiLKDERS\\N_Katmanlı_Ders\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\tables.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.N_Katmanlı_Ders.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.N_Katmanlı_Ders.props",
+      "PackagePath": "build\\N_Katmanlı_Ders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.N_Katmanlı_Ders.props",
+      "PackagePath": "buildMultiTargeting\\N_Katmanlı_Ders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.N_Katmanlı_Ders.props",
+      "PackagePath": "buildTransitive\\N_Katmanlı_Ders.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\N_Katmanlı_Ders.props" />
+</Project>

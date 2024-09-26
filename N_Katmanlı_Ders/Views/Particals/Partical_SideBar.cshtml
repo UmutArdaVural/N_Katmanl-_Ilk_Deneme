@@ -1,0 +1,98 @@
+﻿
+<div id="layoutSidenav_nav">
+    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+        <div class="sb-sidenav-menu">
+            <div class="nav">
+
+                <div class="sb-sidenav-menu-heading">Menüler</div>
+
+                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseProductPanel" aria-expanded="false" aria-controls="collapseProductPanel">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-cart-shopping" style="color: #63E6BE;"></i></div>
+                    Ürün Paneli
+                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                </a>
+                <div class="collapse" id="collapseProductPanel" aria-labelledby="headingTwo" data-bs-parent="#sidenavProductAccordion">
+                    <nav class="sb-sidenav-menu-nested nav">
+                        <a class="nav-link" href="/Product/Index/">Ürünleri Görüntüle</a>
+                        <a class="nav-link" href="/Product/AddProduct/">Ürün Ekle </a>
+                    </nav>
+                </div>
+
+                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseCustomerPanel" aria-expanded="false" aria-controls="collapseCustomerPanel">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-person" style="color: #63E6BE;" ></i></div>
+                    Müşteri Paneli
+                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                </a>
+                <div class="collapse" id="collapseCustomerPanel" aria-labelledby="headingOne" data-bs-parent="#sidenavCustomerAccordion">
+                    <nav class="sb-sidenav-menu-nested nav">
+                        <a class="nav-link" href="/CustomerController1/Index/">Müşterileri Görüntüle</a>
+                        <a class="nav-link" href="/CustomerController1/AddCustomer/">Müşteri Ekle </a>
+                    </nav>
+                </div>
+                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseJobPanel" aria-expanded="false" aria-controls="collapseJobPanel">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-wallet" style="color: #63E6BE;" ></i></div>
+                    Meslek Paneli
+                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                </a>
+                <div class="collapse" id="collapseJobPanel" aria-labelledby="headingTwo" data-bs-parent="#sidenavJobAccordion">
+                    <nav class="sb-sidenav-menu-nested nav">
+                        <a class="nav-link" href="/Job/Index/">Meslekleri Görüntüle</a>
+                        <a class="nav-link" href="/Job/AddJob/">Meslek Ekle </a>
+                    </nav>
+                </div>
+                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseCatagoryPanel" aria-expanded="false" aria-controls="collapseCatagoryPanel">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-list" style="color: #63E6BE;"></i></div>
+                    Kategori Paneli
+                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                </a>
+
+                <div class="collapse" id="collapseCatagoryPanel" aria-labelledby="headingTwo" data-bs-parent="#sidenavCatagoryAccordion">
+                    <nav class="sb-sidenav-menu-nested nav">
+                        <a class="nav-link" href="/Product/Index/">Katagorileri Görüntüle</a>
+                        <a class="nav-link" href="/Product/AddProduct/">Katagori Ekle </a>
+                    </nav>
+                </div>
+                <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseSestingsPanel" aria-expanded="false" aria-controls="collapseSestingsPanel">
+                    <div class="sb-nav-link-icon"><i class="fa-solid fa-gears" style="color: #63E6BE;"></i></div>
+                    Ayarlar Paneli
+                    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                </a>
+                <div class="collapse" id="collapseSestingsPanel" aria-labelledby="headingOne" data-bs-parent="#collapseSestingsPanel">
+                    <nav class="sb-sidenav-menu-nested nav">
+                        <a class="nav-link" href="/Sessting/Index/">Şifre İşlemleri</a>
+                        <a class="nav-link" href="/   /  /">Yakında Eklenicek </a>
+                    </nav>
+                </div>
+
+
+                <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
+                    <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseAuth" aria-expanded="false" aria-controls="pagesCollapseAuth">
+                            Authentication
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="login.html">Login</a>
+                                <a class="nav-link" href="register.html">Register</a>
+                                <a class="nav-link" href="password.html">Forgot Password</a>
+                            </nav>
+                        </div>
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
+                            Error
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>
+                        <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="401.html">401 Page</a>
+                                <a class="nav-link" href="404.html">404 Page</a>
+                                <a class="nav-link" href="500.html">500 Page</a>
+                            </nav>
+                        </div>
+                    </nav>
+                </div>
+                
+        </div>
+      
+    </nav>
+</div>

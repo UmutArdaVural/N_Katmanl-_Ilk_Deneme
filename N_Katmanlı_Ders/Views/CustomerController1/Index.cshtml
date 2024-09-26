@@ -1,0 +1,53 @@
+﻿@using EntityLayer.Concrete
+@model List<Customer>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/UıLayaut.cshtml";
+}
+@functions {
+    public string MaskEmail(string email)
+    {
+        var atIndex = email.IndexOf('@');
+        if (atIndex > 1)
+        {
+            return email.Substring(0, 1) + "****" + email.Substring(atIndex - 1);
+        }
+        return email;
+    }
+}
+<br />
+<br />
+
+<h1 class="display-1" style="margin-left: 30%;">Müşterileri Görüntüle </h1>
+<br />
+<br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>#  </th>
+        <th>Müşteri Adı  </th>
+        <th>Müşteri Mail  </th>
+        <th>Müşteri Şehri  </th>
+        <th>Müşteri Telefon  </th>
+        <th>Müşteri Meslek  </th>
+        <th>Sil  </th>
+        <th>Güncelle  </th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.CustomerId</td>
+            <td> @item.CustomerName</td>
+            <td> @MaskEmail(item.CustomerEmail)</td>
+            <td> @item.CustomerCity</td>
+            <td> @item.CustomerPhone</td>
+            <td> @item.Job.Name</td>
+
+            <td><a href="/CustomerController1/DeleteCustomer/@item.CustomerId" class="btn btn-danger"> Sil</a> </td>
+            <td><a href="/CustomerController1/UptadeCustomer/@item.CustomerId" class="btn btn-success"> Güncelle</a> </td>
+
+        </tr>
+    }
+</table>
+

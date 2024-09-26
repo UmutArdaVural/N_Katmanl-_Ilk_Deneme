@@ -1,0 +1,52 @@
+﻿@model EntityLayer.Concrete.Customer
+
+@{
+    ViewData["Title"] = "UptadeCustomer";
+    Layout = "~/Views/Shared/UıLayaut.cshtml";
+}
+<br />
+<br />
+<h1 class="display-1" style="margin-left: 30%;">Müşteri Güncelle </h1>
+<br />
+<br />
+
+<form method="post">
+
+@Html.Label("Güncel Ürün Id")
+@Html.TextBoxFor(x => x.CustomerId, new { @class = "form-control", @readonly = "readonly" })
+@Html.ValidationMessageFor(x => x.CustomerId)
+<br />
+<br />
+@Html.Label("Müşteri Adı")
+@Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control" })
+@Html.ValidationMessageFor(x => x.CustomerName)
+<br />
+<br />
+
+
+@Html.Label("Müşteri Email")
+@Html.TextBoxFor(x => x.CustomerEmail, new { @class = "form-control", @type = "email" })
+@Html.ValidationMessageFor(x => x.CustomerEmail)
+
+<br />
+<br />
+
+    @Html.Label("Müşteri Numara")
+    @Html.TextBoxFor(x => x.CustomerPhone, new { @class = "form-control", @type = "tel" })
+    @Html.ValidationMessageFor(x => x.CustomerPhone)
+    <br />
+    <br />
+@Html.Label("Müşteri Şehir")
+@Html.TextBoxFor(x => x.CustomerCity, new { @class = "form-control" })
+@Html.ValidationMessageFor(x => x.CustomerCity)
+
+<br />
+<br />
+
+    @Html.Label("Müşteri Meslek")
+    @Html.DropDownListFor(x => x.JobId, (List<SelectListItem>)ViewBag.v, new { @class = "form-control" })
+    <br />     <br />
+
+<button type="submit" class="btn btn-success btn-lg">Müşteri Güncelle </button>
+
+</form>

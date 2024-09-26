@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\N_Katmanlı_Ders.props" />
+</Project>

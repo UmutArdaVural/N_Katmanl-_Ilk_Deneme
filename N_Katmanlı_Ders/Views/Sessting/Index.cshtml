@@ -1,0 +1,55 @@
+﻿@model N_Katmanlı_Ders.Models.UserEditViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/UıLayaut.cshtml";
+}
+
+<br />
+<br />
+<h1 class="display-1" style="margin-left: 15%;">Profil bilgileri düzenleme sayfası </h1>
+<br />
+<br />
+
+<form method="post">
+    @Html.Label("Adınız ")
+  <input type="type"asp-for="Name" class="form-control" />
+    <br />     <br />
+
+
+    @Html.Label("Soyadınız ")
+    <input type="type" asp-for="SurName" class="form-control" />
+    <br />     <br />
+
+    @Html.Label("Soyadınız ")
+    <input type="mail" asp-for="Email" class="form-control" />
+    <br />     <br />
+
+    <label for="Gender">Cinsiyet</label>
+    <select asp-for="Gender" class="form-control">
+        <option value="Erkek">Erkek</option>
+        <option value="Kadın">Kadın</option>
+    </select>
+    <br />     <br />
+
+
+    @Html.Label("Şifre ")
+    <input type="type" asp-for="Password" class="form-control" />
+    <br />     <br />
+
+    @Html.Label("Şifre tekrarı")
+    <input type="type" asp-for="ConfirmPassword" class="form-control" />
+    <br />     <br />
+
+    <button type="submit" class="btn btn-warning btn-lg"> Kaydet </button>
+
+
+
+
+
+
+
+
+</form>
+<br />
+<br />
+<br />

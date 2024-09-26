@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = N_Katmanlı_Ders
+build_property.RootNamespace = N_Katmanlı_Ders
+build_property.ProjectDir = C:\Users\umuta\source\repos\nKATMANLIiLKDERS\N_Katmanlı_Ders\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\umuta\source\repos\nKATMANLIiLKDERS\N_Katmanlı_Ders
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/CustomerController1/AddCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDb250cm9sbGVyMVxBZGRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/CustomerController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/CustomerController1/UptadeCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDb250cm9sbGVyMVxVcHRhZGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Job/AddJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEFkZEpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Job/UptadeJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXFVwdGFkZUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Particals/Partial_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljYWxzXFBhcnRpYWxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Particals/Partical_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljYWxzXFBhcnRpY2FsX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Particals/Partical_NavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljYWxzXFBhcnRpY2FsX05hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Particals/Partical_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljYWxzXFBhcnRpY2FsX1NpZGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Product/UptadeProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcHRhZGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Resgister_/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZ2lzdGVyX1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Sessting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc3RpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Shared/UıLayaut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFXEsUxheWF1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/umuta/source/repos/nKATMANLIiLKDERS/N_Katmanlı_Ders/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tmz6j8pdl1
